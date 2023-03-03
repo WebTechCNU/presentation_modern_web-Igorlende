@@ -1,0 +1,5 @@
+aiohttp
+aiohttp[speedups]
+aiodns
+requests
+bs4
